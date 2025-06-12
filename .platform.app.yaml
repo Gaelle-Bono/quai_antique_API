@@ -1,5 +1,5 @@
 # The name of this app. Must be unique within a project.
-name: app
+name: quai_antique
 
 type: 'php:8.2'
 
