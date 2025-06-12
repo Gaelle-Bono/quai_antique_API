@@ -53,7 +53,7 @@ mounts:
 #     database: 'database:mysql'
 
 relationships:
-    database: 'database:mariadb'
+    database: 'database:mysql'
 
 hooks:
     build: |
