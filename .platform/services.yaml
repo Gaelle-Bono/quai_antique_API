@@ -1,4 +1,4 @@
-mariadb:
+database:
     type: mariadb:10.4
     disk: 256
 
