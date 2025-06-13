@@ -18,7 +18,7 @@
 
 name: restaurant_quai_antique
 
-type: 'php:8.2.12'
+type: 'php:8.2'
 
 runtime:
     extensions:
