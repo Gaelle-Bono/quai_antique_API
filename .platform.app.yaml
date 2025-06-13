@@ -18,7 +18,7 @@
 
 name: restaurant_quai_antique
 
-type: php:8.2
+type: 'php:8.2.12'
 
 runtime:
     extensions:
@@ -49,8 +49,6 @@ web:
 mounts:
     "/var/cache": { source: local, source_path: var/cache }
     
-# relationships:
-#     database: 'database:mysql'
 
 relationships:
     database: 'database:mysql'
